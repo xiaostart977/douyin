@@ -1,4 +1,4 @@
-# 抖音接口辅助
+# 抖音相关接口
 ## 抖音视频无水印下载
 ### 所需文件
 * class/dl.class.php
@@ -57,5 +57,8 @@
     * 如果使用，需要上传class/dl.php和dl.php文件
 * 例如：onAug11.cn/ta.php?dy=https://v.douyin.com/1234567/
 ***
+## Bark
+Bark是iPhone上到一款APP，提供http接口，简单调用即可给自己的iPhone发送推送。
+点击[这里](https://apps.apple.com/cn/app/bark-%E7%BB%99%E4%BD%A0%E7%9A%84%E6%89%8B%E6%9C%BA%E5%8F%91%E6%8E%A8%E9%80%81/id1403753865)安装Bark
 ## 注
 本接口仅用于PHP学习，请勿用于其他用途
